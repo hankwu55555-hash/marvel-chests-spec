@@ -32,6 +32,10 @@
 | `epic_wait_time` | 14400 秒（4 小時） | Epic 等待時間 | ✅ 已確認 |
 | `legendary_wait_time` | 28800 秒（8 小時） | Legendary 等待時間 | ✅ 已確認 |
 | `gem_min_cost` | 1 | 即時開箱最低寶石消費 | ✅ 已確認 |
+| `p_points_common` | 10 | Common 開箱獲得 P 點（活動限定） | ✅ 已確認 |
+| `p_points_rare` | 20 | Rare 開箱獲得 P 點（活動限定） | ✅ 已確認 |
+| `p_points_epic` | TBD | Epic 開箱獲得 P 點（活動限定） | 🔴 待確認 |
+| `p_points_legendary` | TBD | Legendary 開箱獲得 P 點（活動限定） | 🔴 待確認 |
 
 ### 觸發機率參數
 
@@ -84,7 +88,23 @@
 
 ---
 
-## 6.4 待確認事項彙整（依部門）
+## 6.4 Chest Odyssey 通行證參數（活動限定）
+
+| 參數名稱 | 當前值 | 說明 | 狀態 |
+|---------|--------|------|------|
+| `odyssey_milestone_1` | 10 P | 第 1 里程碑門檻 | ⚠️ 待精確確認 |
+| `odyssey_milestone_2` | 30 P | 第 2 里程碑門檻 | ⚠️ 待精確確認 |
+| `odyssey_milestone_3` | 50 P | 第 3 里程碑門檻 | ⚠️ 待精確確認 |
+| `odyssey_milestone_4` | 80 P | 第 4 里程碑門檻 | ⚠️ 待精確確認 |
+| `odyssey_reward_per_milestone` | TBD | 各里程碑對應獎勵內容 | 🔴 待確認 |
+| `odyssey_event_duration` | TBD | 活動持續時間 | 🔴 待確認 |
+
+> ⚠️ 里程碑門檻為截圖觀察值，需由數值企劃精確確認。
+
+---
+
+
+## 6.5 待確認事項彙整（依部門）
 
 ### 數值企劃
 
