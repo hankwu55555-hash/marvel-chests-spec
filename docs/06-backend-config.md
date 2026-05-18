@@ -60,10 +60,14 @@
 | `reward_min_epic` | TBD | Epic 保證最低幣值（× TB） | 🔴 待確認 |
 | `reward_min_legendary` | TBD | Legendary 保證最低幣值（× TB） | 🔴 待確認 |
 | `reward_max_multiplier` | TBD | 幣值獎勵上限倍率 | 🔴 待確認 |
-| `may_win_prob_common` | TBD | Common May Win 掉落機率 | 🔴 待確認 |
-| `may_win_prob_rare` | TBD | Rare May Win 掉落機率 | 🔴 待確認 |
-| `may_win_prob_epic` | TBD | Epic May Win 掉落機率 | 🔴 待確認 |
-| `may_win_prob_legendary` | TBD | Legendary May Win 掉落機率 | 🔴 待確認 |
+| `may_win_items_common` | TBD | Common May Win 可掉落品項 | 🔴 由運營設定 |
+| `may_win_prob_common` | TBD | Common May Win 掉落機率 | 🔴 由運營設定 |
+| `may_win_items_rare` | TBD | Rare May Win 可掉落品項 | 🔴 由運營設定 |
+| `may_win_prob_rare` | TBD | Rare May Win 掉落機率 | 🔴 由運營設定 |
+| `may_win_items_epic` | TBD | Epic May Win 可掉落品項 | 🔴 由運營設定 |
+| `may_win_prob_epic` | TBD | Epic May Win 掉落機率 | 🔴 由運營設定 |
+| `may_win_items_legendary` | TBD | Legendary May Win 可掉落品項 | 🔴 由運營設定 |
+| `may_win_prob_legendary` | TBD | Legendary May Win 掉落機率 | 🔴 由運營設定 |
 
 ### 寶石即時開箱換算
 

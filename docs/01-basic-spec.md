@@ -18,10 +18,10 @@ Marvel Chests 為**常駐系統**，持續運作於遊戲中。
 
 | 等級 | 圖示 | 等待時間 | 顯示格式 | 保證最低幣值 | 可能額外獎勵（May Win） |
 |------|------|---------|---------|------------|----------------------|
-| Common（普通） | 🟠 | 1 小時 | 60MIN | TBD | 寶石、拼圖碎片 |
-| Rare（稀有） | 🔵 | 2 小時 | 2HRS | TBD | Ball Shots、拼圖碎片 |
-| Epic（史詩） | 🟣 | 4 小時 | 4HRS | TBD | Ball Shots、拼圖碎片 |
-| Legendary（傳說） | 🔴 | 8 小時 | 8HRS | TBD | Ball Shots、拼圖碎片 |
+| Common（普通） | 🟠 | 1 小時 | 60MIN | TBD | TBD |
+| Rare（稀有） | 🔵 | 2 小時 | 2HRS | TBD | TBD |
+| Epic（史詩） | 🟣 | 4 小時 | 4HRS | TBD | TBD |
+| Legendary（傳說） | 🔴 | 8 小時 | 8HRS | TBD | TBD |
 
 > **TB = Total Bet**：觸發當次的總下注額，幣值獎勵以此為計算基準。
 
@@ -59,10 +59,10 @@ Marvel Chests 為**常駐系統**，持續運作於遊戲中。
 
 | 等級 | 可能掉落品項 |
 |------|------------|
-| 🟠 Common | 寶石（Gems）、拼圖碎片（Puzzle Pieces） |
-| 🔵 Rare | Ball Shots、拼圖碎片 |
-| 🟣 Epic | Ball Shots、拼圖碎片 |
-| 🔴 Legendary | Ball Shots、拼圖碎片 |
+| 🟠 Common | TBD（由運營人員設定） |
+| 🔵 Rare | TBD（由運營人員設定） |
+| 🟣 Epic | TBD（由運營人員設定） |
+| 🔴 Legendary | TBD（由運營人員設定） |
 
 ------|------|
 | 🟠 Common | 10 P |
