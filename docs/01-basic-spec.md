@@ -64,13 +64,6 @@ Marvel Chests 為**常駐系統**，持續運作於遊戲中。
 | 🟣 Epic | TBD（由運營人員設定） |
 | 🔴 Legendary | TBD（由運營人員設定） |
 
-------|------|
-| 🟠 Common | 10 P |
-| 🔵 Rare | 20 P |
-| 🟣 Epic | TBD |
-| 🔴 Legendary | TBD |
-
-
 ---
 
 ## 1.5 稀有度視覺識別
