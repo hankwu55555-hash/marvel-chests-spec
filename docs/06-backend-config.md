@@ -39,17 +39,10 @@
 
 | 參數名稱 | 當前值 | 說明 | 狀態 |
 |---------|--------|------|------|
-| `bet_tier_low_threshold` | TBD | 低下注區間上限 | 🔴 待確認 |
-| `bet_tier_mid_threshold` | TBD | 中下注區間上限 | 🔴 待確認 |
-| `prob_common_low_bet` | TBD | 低下注區間 Common 機率 | 🔴 待確認 |
-| `prob_rare_low_bet` | TBD | 低下注區間 Rare 機率 | 🔴 待確認 |
-| `prob_common_mid_bet` | TBD | 中下注區間 Common 機率 | 🔴 待確認 |
-| `prob_rare_mid_bet` | TBD | 中下注區間 Rare 機率 | 🔴 待確認 |
-| `prob_epic_mid_bet` | TBD | 中下注區間 Epic 機率 | 🔴 待確認 |
-| `prob_common_high_bet` | TBD | 高下注區間 Common 機率 | 🔴 待確認 |
-| `prob_rare_high_bet` | TBD | 高下注區間 Rare 機率 | 🔴 待確認 |
-| `prob_epic_high_bet` | TBD | 高下注區間 Epic 機率 | 🔴 待確認 |
-| `prob_legendary_high_bet` | TBD | 高下注區間 Legendary 機率 | 🔴 待確認 |
+| `prob_weight_tier1` | TBD | 押注段 1~4：Common 機率權重 | 🔴 待確認 |
+| `prob_weight_tier2` | TBD | 押注段 5~11：各已解鎖等級機率權重 | 🔴 待確認 |
+| `prob_weight_tier3` | TBD | 押注段 12~17：各已解鎖等級機率權重 | 🔴 待確認 |
+| `prob_weight_tier4` | TBD | 押注段 18+：各已解鎖等級機率權重 | 🔴 待確認 |
 
 ### 獎勵參數
 
