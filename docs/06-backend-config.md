@@ -25,6 +25,8 @@
 
 | 參數名稱 | 當前值 | 說明 | 狀態 |
 |---------|--------|------|------|
+| `chest_visible_level` | 1 | 下 BAR 入口開始顯示的玩家等級 | ✅ 已確認 |
+| `chest_unlock_level` | 30 | 解鎖遊玩的玩家等級門檻 | ✅ 已確認 |
 | `chest_max_slots` | 4 | 玩家最大寶箱持有數量 | ✅ 已確認 |
 | `chest_concurrent_timers` | 1 | 同時進行計時的寶箱數量上限 | ✅ 已確認 |
 | `common_wait_time` | 3600 秒（1 小時） | Common 等待時間 | ✅ 已確認 |
