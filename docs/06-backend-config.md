@@ -34,6 +34,7 @@
 | `epic_wait_time` | 14400 秒（4 小時） | Epic 等待時間 | ✅ 已確認 |
 | `legendary_wait_time` | 28800 秒（8 小時） | Legendary 等待時間 | ✅ 已確認 |
 | `gem_min_cost` | 1 | 即時開箱最低寶石消費 | ✅ 已確認 |
+| `trigger_multiplier_N` | TBD | 觸發門檻倍率：單次贏分 ≥ TB × N 時發放寶箱 | 🔴 待確認 |
 
 ### 觸發機率參數
 
@@ -73,27 +74,19 @@
 
 ---
 
-## 6.3 觸發倍率參數
-
-| 參數名稱 | 當前值 | 說明 | 狀態 |
-|---------|--------|------|------|
-| `trigger_multiplier_N` | TBD | 觸發門檻倍率：單次贏分 ≥ TB × N 時發放寶箱 | 🔴 待確認 |
-
----
-
 ## 6.3 押注段解鎖參數
 
 押注段與寶箱稀有度解鎖的對應關係，可由後臺隨時調整：
 
-| 參數名稱 | 當前值 | 說明 |
-|---------|--------|------|
-| `unlock_tier1_bet_min` | 1 | Common 解鎖起始押注段 |
-| `unlock_tier1_bet_max` | 4 | Common 獨占結束押注段 |
-| `unlock_tier2_bet_min` | 5 | Rare 解鎖起始押注段 |
-| `unlock_tier2_bet_max` | 11 | Rare 解鎖結束押注段 |
-| `unlock_tier3_bet_min` | 12 | Epic 解鎖起始押注段 |
-| `unlock_tier3_bet_max` | 17 | Epic 解鎖結束押注段 |
-| `unlock_tier4_bet_min` | 18 | Legendary 解鎖起始押注段（18 段以上全解鎖） |
+| 參數名稱 | 當前值 | 說明 | 狀態 |
+|---------|--------|------|------|
+| `unlock_tier1_bet_min` | 1 | Common 解鎖起始押注段 | ✅ 已確認 |
+| `unlock_tier1_bet_max` | 4 | Common 獨占結束押注段 | ✅ 已確認 |
+| `unlock_tier2_bet_min` | 5 | Rare 解鎖起始押注段 | ✅ 已確認 |
+| `unlock_tier2_bet_max` | 11 | Rare 解鎖結束押注段 | ✅ 已確認 |
+| `unlock_tier3_bet_min` | 12 | Epic 解鎖起始押注段 | ✅ 已確認 |
+| `unlock_tier3_bet_max` | 17 | Epic 解鎖結束押注段 | ✅ 已確認 |
+| `unlock_tier4_bet_min` | 18 | Legendary 解鎖起始押注段（18 段以上全解鎖） | ✅ 已確認 |
 
 > 調整此參數可即時影響玩家在 ELIGIBLE FOR 面板中看到的解鎖狀態與進度條。
 
@@ -135,9 +128,9 @@
 
 | 部門 | 待確認項目數 | 狀態 |
 |------|------------|------|
-| 數值企劃 | 5 | 🔴 未開始 |
-| 產品企劃 | 3 | 🔴 未開始 |
-| 文案組 | 3 | 🔴 未開始 |
+| 數值企劃 | 4 | 🔴 未開始 |
+| 產品企劃 | 2 | 🔴 未開始 |
+| 文案組 | 1 | 🔴 未開始 |
 | 美術 | 2 | 🔴 未開始 |
 | 研發 | 2 | 🔴 未開始 |
 
